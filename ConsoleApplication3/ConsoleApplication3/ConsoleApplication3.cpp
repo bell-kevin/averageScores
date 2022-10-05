@@ -22,6 +22,9 @@ int main()
         cout << "a D";
     else if (average < 60) 
         cout << "an F";
+    //Keep window open til done
+    system("pause");
+    return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
